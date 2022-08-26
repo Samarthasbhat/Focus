@@ -1,7 +1,7 @@
 # Focus :rainbow:
 
-Used HTML CSS and a mp4 video to show the background of the given text
+Used HTML CSS and a mp4 video to show the background  effects behind the text
 
-## Result
+# Result
 
 ![output](https://github.com/Samarthasbhat/Focus/blob/main/output.png)
